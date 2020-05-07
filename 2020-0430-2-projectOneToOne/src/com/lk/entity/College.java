@@ -13,6 +13,8 @@ import javax.persistence.Table;
  * 一个学院有一个院长，
  * 一个院长只管理一个学院，结合课上的方法，完成相关操作。
  */
+
+//这是一个学生
 @Entity
 @Table(name = "JPA_college4")
 public class College {
