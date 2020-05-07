@@ -1,6 +1,6 @@
 package com.lk.entity;
 //hello world aaa
-//dddd
+//dddd+bbbb
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
